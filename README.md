@@ -1,4 +1,4 @@
-# Ingen084 Tap
+# ingen084 Tap
 
 ## How do I install these formulae?
 
