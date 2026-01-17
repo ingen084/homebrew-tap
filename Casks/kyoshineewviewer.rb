@@ -1,8 +1,8 @@
 cask "kyoshineewviewer" do
-  version "0.20.21"
-  sha256 "a033a80c97d2f0367d9af0eaceeb5417ebaee303124b1c577da3f412091396eb"
+  version "0.20.23"
+  sha256 "6e9e08cdbf6f34930dacd128fd454d349497a677fa530ce89ba5efd465047afb"
 
-  url "https://github.com/ingen084/KyoshinEewViewerIngen/releases/download/0.20.21/KyoshinEewViewer-macos-arm64.zip"
+  url "https://github.com/ingen084/KyoshinEewViewerIngen/releases/download/0.20.23/KyoshinEewViewer-macos-arm64.zip"
   name "KyoshinEewViewer for ingen"
   desc "Custom client for kyoshin-monitor"
   homepage "https://github.com/ingen084/KyoshinEewViewerIngen"
